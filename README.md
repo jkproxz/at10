@@ -1,1 +1,1 @@
-{phuongphuong-oknote} {cuoicuoi-okxoa} {khangkhang3-oknote}
+{phuongphuong-okxoa} {cuoicuoi-okxoa} {khangkhang3-okxoa}
